@@ -140,6 +140,4 @@ Persona and Context Prompts:
 
 
 # Result: 
-
-
 Thus the Prompts were exected succcessfully.
